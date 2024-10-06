@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in 2026. I'm currently seeking **PhD opportunities**.
+🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in 2026. I'm currently seeking **PhD opportunities**.
 
 🤔 My research interests lie in **Balanced Multimodal Learning** and **Generative Models(particularly Diffusions)**.
 
-Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
+🥰 Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
 
 📫 You can contact me at: 22371325@buaa.edu.cn
-
----
-
-This version improves clarity, flow, and formality, making it more professional while keeping the tone friendly.

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in 2026. I'm currently seeking **PhD opportunities**.
+🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in **2026**. I'm currently seeking **PhD opportunities**.
 
 🤔 My research interests lie in **Multimodal Learning** and **Generative Models(particularly Diffusions)**.
 

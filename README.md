@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in 2026. I'm currently seeking **PhD opportunities**.
 
-🤔 My research interests lie in **Balanced Multimodal Learning** and **Generative Models(particularly Diffusions)**.
+🤔 My research interests lie in **Multimodal Learning** and **Generative Models(particularly Diffusions)**.
 
 🥰 Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
 

@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 🥰 Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
 
-📫 You can contact me at: 22371325@buaa.edu.cn
+📫 You can contact me at: 22371325@buaa.edu.cn / sebastiannht@163.com

@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in **2026**. I'm currently seeking **PhD opportunities**.
 
-🤔 My research interests lie in **Multimodal Learning** and **Generative Models(particularly Diffusions)**.
+🤔 My research interests lie in **Multimodal Learning** and **Generative Models**. For more details, you can visit my homepage https://nihaotian1.github.io.
 
 🥰 Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
 
-📫 You can contact me at: 22371325@buaa.edu.cn / sebastiannht@163.com
+📫 You can contact me at: 22371325@buaa.edu.cn / sebastiannht@163.com.

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🤔 My research interests lie in **Multimodal Learning** and **Generative Models**. For more details, you can visit my homepage https://nihaotian1.github.io.
 
-🔬 I’m currently interning at the Shanghai AI Laboratory, where I focus on unified multimodal understanding and generation models (Unified MLLMs).
+🔬 I’m currently interning at the Shanghai AI Laboratory, where I focus on building vision tokenizer for unified multimodal understanding and generation models (Unified MLLMs).
 
 🥰 Feel free to reach out if you'd like to connect or discuss any things—I'd love to chat!
 
